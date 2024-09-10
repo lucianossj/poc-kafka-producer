@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+topics:
+  hello:
+    request:
+        topic: "hello.request.topic.v1"
